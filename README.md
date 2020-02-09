@@ -1,5 +1,28 @@
 # theproject
 
+####################################################################################################################
+
+We looked at data sets concerning Bitcoin and its sustainability over a
+range of 4 years (2015-2019):
+-
+Price of Bitcoin 
+-
+Number of bitcoins mined per year
+-
+Price of electricity
+-
+Energy usage in mining Bitcoin
+-
+CO2 emissions per kW/h
+From there on out, we use those data sets to calculate the earnings 
+obtained in a year for bitcoin mining. We subtract from this the money
+spent on energy for producing it and we get the profit.
+We also calculate the C02 emissions produced by the energy used to 
+mine Bitcoins. We collect this data to try to figure out if it ́s a 
+sustainable way of earning money. 
+
+####################################################################################################################
+
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.15.5` by running:
@@ -130,6 +153,9 @@ To generate or update the dependency requirements for your project, run:
 
 ```
 kedro build-reqs
+
+
+
 ```
 
 This will copy the contents of `src/requirements.txt` into a new file `src/requirements.in` which will be used as the source for `pip-compile`. You can see the output of the resolution by opening `src/requirements.txt`.
