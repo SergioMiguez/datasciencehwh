@@ -1,7 +1,6 @@
 # theproject
 
-####################################################################################################################
-
+######################################################################################
 We looked at data sets concerning Bitcoin and its sustainability over a
 range of 4 years (2015-2019):
 -
@@ -14,14 +13,14 @@ Price of electricity
 Energy usage in mining Bitcoin
 -
 CO2 emissions per kW/h
-From there on out, we use those data sets to calculate the earnings 
+From there on out, we used those data sets to calculate the earnings 
 obtained in a year for bitcoin mining. We subtract from this the money
 spent on energy for producing it and we get the profit.
-We also calculate the C02 emissions produced by the energy used to 
-mine Bitcoins. We collect this data to try to figure out if it ́s a 
+We also calculated the C02 emissions produced by the energy used to 
+mine Bitcoins. We collected this data to try to figure out if it ́s a 
 sustainable way of earning money. 
 
-####################################################################################################################
+######################################################################################
 
 ## Overview
 
